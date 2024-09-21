@@ -50,4 +50,6 @@ int main() {
 }
 /**
 Output:
+thouseef-ahmed-syed@thouseef-ahmed-syed-Mi-NoteBook-14:~/.ssh/ss-assignments2$echo "Hello from FIFO" > myfifo1
+Data received: Hello from FIFO
 **/
