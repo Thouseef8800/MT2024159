@@ -40,4 +40,6 @@ int main() {
 }
 /**
 Output:
+Max open files: 1024
+Pipe size: 4096 bytes
 **/
